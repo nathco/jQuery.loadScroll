@@ -8,7 +8,7 @@ Include the latest version of [jQuery](http://jquery.com/download) and `jQuery.l
 <script src="jQuery.loadScroll.js"></script>
 ```
 ## How to Use
-Reference the `loadScroll()` method and use the `data-src` attribute for all dynamic loading images. The `data-src` changes to the standard `src` attribute as the image(s) enter the viewport. Placeholder images are optional. See the live demo: [code.bynathan.com/loadScroll](http://code.bynathan.com/loadScroll)
+Reference the `loadScroll()` method and use the `data-src` attribute for all dynamic loading images. The `data-src` changes to the standard `src` attribute as the image(s) enter the viewport. Placeholder images are optional. See the live demo: [code.nath.co/loadScroll](http://code.nath.co/loadScroll)
 
 **HTML**
 ```html
@@ -47,4 +47,4 @@ $(function() {
 – Added paramater for `fadeIn` duration  
 
 ## Feedback
-If you discover any issues or have questions regarding usage, please send a message to [mail@bynathan.com](mailto:mail@bynathan.com) or find me on twitter [@ByNathan](http://twitter.com/ByNathan).
+If you discover any issues or have questions regarding usage, please send a message to [code@nath.co](mailto:code@nath.co) or find me on GitHub [@nathco](https://github.com/nathco).

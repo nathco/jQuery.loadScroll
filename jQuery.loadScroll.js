@@ -1,6 +1,7 @@
-// Dynamically load images while scrolling
-// Source: github.com/ByNathan/jQuery.loadScroll
-// Version: 1.0.1
+// Plugin: jQuery.loadScroll
+// Source: github.com/nathco/jQuery.loadScroll
+// Author: Nathan Rutzky
+// Update: 1.0.1
 
 (function($) {
     
@@ -26,8 +27,7 @@
                            .removeAttr('style');
                     
                 } else return false;
-            }
-            
+            }  
         });
     
         $window.scroll(function() {
